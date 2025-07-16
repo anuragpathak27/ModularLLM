@@ -3,8 +3,7 @@
 A scalable and interpretable framework that enhances a frozen base language model (LLM) with **modular reasoning capabilities** using attachable **pluggable heads** for symbolic, logical, graph-based, or multimodal reasoning tasks.
 
 ## Overview
-
-This project introduces a **controller-based architecture** where different reasoning modules ("heads") can be attached to a frozen LLM. Depending on the input type or intent, the controller routes the prompt to the appropriate reasoning head.
+This repository contains the Google Colab-compatible Jupyter Notebook for the research paper "Modular LLM Architecture with Pluggable Reasoning Heads: A Scalable Approach to Multi-Modal AI Reasoning", presented at the 5th International Conference on Emerging Trends in Networks and Computer Communications 2025 (ETNCC). This project introduces a **controller-based architecture** where different reasoning modules ("heads") can be attached to a frozen LLM. Depending on the input type or intent, the controller routes the prompt to the appropriate reasoning head.
 
 ### Key Features
 - Pluggable reasoning heads (e.g., Symbolic, Logical, Graph-based)
