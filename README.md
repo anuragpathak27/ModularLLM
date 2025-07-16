@@ -68,8 +68,7 @@ The system is built around a modular plug-and-play design that routes user promp
 ## Demo (Coming Soon)
 A Gradio demo will be added for interactive testing.
 
-## Author
-## Anurag Pathak
+## [Anurag Pathak](https://www.linkedin.com/in/anurag-pathak-ap27032004)
 
 ## License
 This project is licensed under the MIT License.
