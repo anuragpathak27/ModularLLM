@@ -1,4 +1,4 @@
-# 🧠 Modular LLM Architecture with Pluggable Reasoning Heads
+# Modular LLM Architecture with Pluggable Reasoning Heads
 
 A scalable and interpretable framework that enhances a frozen base language model (LLM) with **modular reasoning capabilities** using attachable **pluggable heads** for symbolic, logical, graph-based, or multimodal reasoning tasks.
 
