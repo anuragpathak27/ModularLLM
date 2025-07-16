@@ -65,14 +65,8 @@ The system is built around a modular plug-and-play design that routes user promp
 
  More coming soon...
 
-
 ## Demo (Coming Soon)
 A Gradio demo will be added for interactive testing.
-
-## Paper Reference
-This project is part of the paper:
-"Modular LLM Architecture with Pluggable Reasoning Heads: A Scalable Approach to Multi-Modal AI Reasoning"
-Accepted at ETNCC 2025 for presentation
 
 ## Author
 ## Anurag Pathak
